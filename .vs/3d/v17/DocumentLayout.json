@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarah.velho\\Documents\\Escola\\Programa\u00E7\u00E3o\\3d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4A87D-3C8D-0B2E-EE5C-7AD00A01FFEA}|Assembly-CSharp.csproj|c:\\users\\sarah.velho\\documents\\escola\\programa\u00E7\u00E3o\\3d\\assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4A87D-3C8D-0B2E-EE5C-7AD00A01FFEA}|Assembly-CSharp.csproj|solutionrelative:assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.velho\\Documents\\Escola\\Programa\u00E7\u00E3o\\3d\\Assets\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Player.cs",
+              "ToolTip": "C:\\Users\\sarah.velho\\Documents\\Escola\\Programa\u00E7\u00E3o\\3d\\Assets\\Player.cs",
+              "RelativeToolTip": "Assets\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:15:11.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
